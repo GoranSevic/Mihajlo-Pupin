@@ -1,0 +1,93 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+  }
+
+
+
+.header { 
+    background-color: grey;
+    border-radius: 10px;
+    border: 15px solid grey;
+    margin: 2%;
+    display: block;
+    
+    
+}
+
+.misao {
+    width: 50%;
+    height: auto;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+    font-size: large;
+    display: inline-block;
+    margin-left: 10%;
+    position: absolute;
+    margin-top: 1%;
+}
+
+.text {
+    width: 30%;
+    height: auto;
+    text-align: center;
+    display: block;
+}
+
+#h1 {
+  font-size: 20px;  
+  color: white;
+  text-align: center;
+  
+}
+#linija {
+    border: 5px solid grey;
+    border-radius: 10px;
+}
+
+ #logo {
+    border-radius: 50px;
+    width: 30%;
+    height: auto;
+    margin-top: 20px;
+    
+}
+#paragraph {
+    position: relative;
+}
+
+section {
+    display:inline-block;
+    width: 300px;
+    border-right: 5px solid grey;
+    height: 300px;
+    text-align: center;
+    background-color: white;
+    color: gray;
+    border-radius: 30%;
+    margin: 2%;
+    border-left: 5px solid grey;
+   
+
+    
+}
+aside {
+    display: inline-block;
+    padding-left: 40px;
+    text-align: center;
+    vertical-align: baseline;
+    
+}
+#linija1 {
+    border: 5px solid grey;
+    border-radius: 10px;
+    
+}
+.nav {
+    padding-top: 30%;
+    
+    
+}
