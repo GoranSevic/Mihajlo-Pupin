@@ -101,7 +101,6 @@ table {
     border-collapse: separate;
     border-spacing: 2px;
     border-color: grey;
-    font-family: arial, sans-serif;
     border-collapse: collapse;
     width: 80%;
     margin: 0 auto;
@@ -152,6 +151,26 @@ span:hover + div {
     text-align: center;
     
 }
+#naslov {
+    font-size: large;
+    text-align: center;
+}
+#map {
+  text-align: center;
+}
+#p1 {
+  border-bottom: 1px solid grey;
+}
+#p2 {
+  border-bottom: 1px solid grey;
+}
+#p3 {
+  border-bottom: 1px solid grey;
+}
+#p4 {
+  border-bottom: 1px solid grey;
+}
+
 
 /* prva strana*/
 
